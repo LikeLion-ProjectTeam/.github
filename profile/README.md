@@ -64,7 +64,7 @@ If you'd like to contribute to our projects:
 We welcome new ideas and fresh perspectives, so feel free to open an issue or reach out!
 
 ## ✉️ Contact Us
-If you have any questions, please reach out to us via [our email](wisc@likelion.org) or find us on [Instagram](https://www.instagram.com/likelion_wisconsin/).
+If you have any questions, please reach out to us via [wisc@likelion.org](wisc@likelion.org) or find us on [Instagram](https://www.instagram.com/likelion_wisconsin/).
 
 ---
 
