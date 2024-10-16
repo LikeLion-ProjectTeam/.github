@@ -8,7 +8,6 @@ We aim to foster an environment where students can learn, experiment, and grow a
 
 
 <!--
-
 ## 💼 Our Projects
 ### 1. LikeUni
    - **Technologies:** HTML/CSS, JavaScript, React Native, Python, Flask, MySQL, etc.
@@ -29,22 +28,23 @@ We work with a variety of programming languages and technologies to bring our id
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, GitHub, VS Code
 
-<!--
 
 ## 👥 Meet Our Team
 We are a team of developers, designers, and innovators. Here’s a list of our members:
-- **[Team Member 1 Name]** - Role (e.g., Backend Developer)
-- **[Team Member 2 Name]** - Role (e.g., Frontend Developer)
-- **[Team Member 3 Name]** - Role (e.g., Project Manager)
+- **Taenam Kim** - Lead Developer
+- **Nayun Kang** - Full Stack Developer
+- **Daniel Park** - Frontend Developer
+- **Seohee Choy** - Frontend Developer
+- **Leo Jeong** - Backend Developer
+- **Alex Lee** - Backend Developer
+- **Sooa Cho** - UI/UX Designer
 
-*(Include all team members here with brief descriptions)*
-
--->
 
 ## 🎯 Our Goals
 1. To create open-source projects that contribute to the LikeLion community and beyond.
 2. To enhance our skills and learn new technologies through hands-on project development.
 3. To build meaningful projects that tackle real-life problems in areas such as **education, health, and technology accessibility**.
+
 
 ## 📖 Get Started
 We welcome contributors! To get started:
@@ -52,6 +52,7 @@ We welcome contributors! To get started:
 2. Navigate into the directory: `cd repo-name`
 3. Install the required dependencies: `npm install` (for Node projects), `pip install -r requirements.txt` (for Python projects)
 4. Follow the project-specific instructions in each project's README for further setup.
+
 
 ## 🤝 How to Contribute
 If you'd like to contribute to our projects:
@@ -61,7 +62,9 @@ If you'd like to contribute to our projects:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a pull request
 
+
 We welcome new ideas and fresh perspectives, so feel free to open an issue or reach out!
+
 
 ## ✉️ Contact Us
 If you have any questions, please reach out to us via [wisc@likelion.org](mailto:wisc@likelion.org) or find us on [Instagram](https://www.instagram.com/likelion_wisconsin/).
