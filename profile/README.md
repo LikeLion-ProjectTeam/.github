@@ -24,10 +24,10 @@ We aim to foster an environment where students can learn, experiment, and grow a
 ## 🛠️ Tech Stack
 We work with a variety of programming languages and technologies to bring our ideas to life:
 - **Frontend:** HTML, CSS, JavaScript, React, React Native
-- **Backend:** Flask, Node.js
+- **Backend:** Python, Flask, Django, Node.js
 - **Databases:** MySQL, MongoDB
-- **Tools:** Git, GitHub, VS Code
-
+- **Tools:** Git, GitHub, VS Code, Postman, etc.
+  
 
 ## 👥 Meet Our Team
 We are a team of developers, designers, and innovators. Here’s a list of our members:
