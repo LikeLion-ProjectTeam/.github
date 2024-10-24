@@ -33,7 +33,6 @@ We work with a variety of programming languages and technologies to bring our id
 We are a team of developers, designers, and innovators. Here’s a list of our members:
 - **Taenam Kim** - Lead Developer
 - **Nayun Kang** - Full Stack Developer
-- **Daniel Park** - Frontend Developer
 - **Seohee Choy** - Frontend Developer
 - **Leo Jeong** - Backend Developer
 - **Alex Lee** - Backend Developer
